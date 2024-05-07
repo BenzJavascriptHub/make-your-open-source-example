@@ -1,0 +1,23 @@
+{
+  "name": "say-hello-functions-by-benjamin",
+  "version": "0.0.1",
+  "description": "Just a test package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "repository": {
+    "url": "https://github.com"},
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lenrich1403",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
